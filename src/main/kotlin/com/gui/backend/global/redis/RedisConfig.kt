@@ -1,6 +1,6 @@
-package com.gui.backend.global
+package com.gui.backend.global.redis
 
-import com.gui.backend.global.properties.RedisProperties
+import com.gui.backend.global.redis.properties.RedisProperties
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.data.redis.connection.RedisConnectionFactory

@@ -1,4 +1,4 @@
-package com.gui.backend.global.properties
+package com.gui.backend.global.redis.properties
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 import org.springframework.boot.context.properties.ConstructorBinding
